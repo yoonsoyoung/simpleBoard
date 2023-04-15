@@ -26,14 +26,15 @@ CRUD 베이직 of 베이직 게시판(댓글) + 회원관리 기능을 구현해
 - Spring Boot 4
 - Java 11
 - JPA
-- MariaDB
+- MySQL
 - Vue.js
 
 ### ✏ 5. 아키텍처 상세
 - 아키텍처
 
 - ERD
-  ![ERD DSimpleBoard](https://user-images.githubusercontent.com/32251962/232233297-1ecb702c-3a99-46ee-80cb-4d04b8d05f93.png)
+  ![ERD DSimpleBoard](https://user-images.githubusercontent.com/32251962/232233813-e7ed60e0-aaa9-4ffd-8b48-adb7b2da93aa.png)
+  
 
 
 - 와이어프레임
