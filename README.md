@@ -33,6 +33,7 @@ CRUD 베이직 of 베이직 게시판(댓글) + 회원관리 기능을 구현해
 - 아키텍처
 
 - ERD
+  ![ERD DSimpleBoard](https://user-images.githubusercontent.com/32251962/232233297-1ecb702c-3a99-46ee-80cb-4d04b8d05f93.png)
 
 
 - 와이어프레임
