@@ -36,4 +36,5 @@ CRUD 베이직 of 베이직 게시판(댓글) + 회원관리 기능을 구현해
 
 
 - 와이어프레임
+  ![image](https://user-images.githubusercontent.com/32251962/232231224-db6a8017-8542-4e31-a73a-d83b942b174a.png)
 
