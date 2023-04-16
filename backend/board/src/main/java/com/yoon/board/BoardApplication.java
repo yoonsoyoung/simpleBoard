@@ -1,13 +1,13 @@
-package com.yoon.simpleboard;
+package com.yoon.board;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SimpleboardApplication {
+public class BoardApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SimpleboardApplication.class, args);
+		SpringApplication.run(BoardApplication.class, args);
 	}
 
 }
